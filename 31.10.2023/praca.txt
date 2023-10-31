@@ -1,0 +1,10 @@
+1. <center> - Został zdeprecjonowany do wyrównania treści
+2. <font> - Był używany do zmiany rozmiaru i koloru tekstu
+3. <frame> - Został zdeprecjonowany na rzecz ramek typu <iframe>
+4. align - Był używany do wyrównania obrazów
+5. border - Służył do określania szerokości obramowania obrazów
+6. bgcolor - Służył do określania koloru tła elementów
+7. valing - Był używany do wyrównania treści w komórkach tabeli 
+8. frameborder - Został zdeprecjonowany na rzecz stylizacji ramek
+9. alink - Został zdeprecjonowany do kontrolowania kolorów linków
+10. 
