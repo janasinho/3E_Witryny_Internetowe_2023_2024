@@ -1,0 +1,54 @@
+zad 1
+
+1. <center> - Został zdeprecjonowany do wyrównania treści
+2. <font> - Był używany do zmiany rozmiaru i koloru tekstu
+3. <frame> - Został zdeprecjonowany na rzecz ramek typu <iframe>
+4. align - Był używany do wyrównania obrazów
+5. border - Służył do określania szerokości obramowania obrazów
+6. bgcolor - Służył do określania koloru tła elementów
+7. valing - Był używany do wyrównania treści w komórkach tabeli 
+8. frameborder - Został zdeprecjonowany na rzecz stylizacji ramek
+9. alink - Został zdeprecjonowany do kontrolowania kolorów linków
+10. 
+
+zad 2
+
+-5.0 nie jest jeszcze oficjalnym standardem, to ciągle jeszcze projekt
+-w HTML5 możemy tworzyć proste skrypty oparte na gotowych tagach
+-mamy więcej tagów wyspecjalizowanych w opisie poszczególnych sesji (z HTML5 zmienia się więc znacząco semantyka)
+
+zad 3
+
+HTML 4.0 -  http://www.w3.org/
+HTML 4.01 -    
+HTML 5.0 - 
+
+zad 4
+
+-Witryna internetowa - to zbiór stron, adresów URL i podstron, które są umieszczone na jednym serwerze i w ramach jednej domeny.(https://www.google.pl/)
+-Portal internetowy - rodzaj serwisu informacyjnego, poprzez który użytkownicy mają dostęp do nowych informacji z wielu dziedzin
+-Sklep internetowy – serwis internetowy dający możliwość kupowania i sprzedawania produktów przez Internet, jedna z form handlu elektronicznego.(https://www.zalando.com)
+-Blog tekstowy - rodzaj strony internetowej, w której większość treści stanowią teksty.Tego typu strony są tworzone przeważnie przez jedną osobę.
+-Wideoblog - rodzaj bloga internetowego, który zamiast postów tekstowych posługuje się materiałem filmowym. Rodzaj bloga internetowego, który zamiast postów tekstowych posługuje się materiałem filmowym.(https://www.youtube.com)
+
+zad 5
+
+X Portal internetowy
+
+zad 6
+
+1. błędna 
+2. błędna
+3. poprawna
+4. poprawna
+5. błędna
+
+zad 7 
+
+
+TEST
+1.A
+2.D
+3.C
+4.C
+5.A
