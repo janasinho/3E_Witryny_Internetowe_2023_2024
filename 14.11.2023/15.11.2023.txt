@@ -1,0 +1,29 @@
+zad 1
+Specyfikacja HTML 4 przewiduje trzy wersje prologu. Prolog ten odpowiada wersji STRICT definicji typu dokumentu (DTD), 
+a więc wykluczającej wszelkie elementy prezentacyjne, które specyfikacja HTML 4 uznaje za schyłkowe (deprecated).
+Wersja jest jest więc okrojonym HTML 4, przedkładającym strukturę nad prezentację.
+
+zad 2
+<html lang="pl">
+</head>
+</body>
+</html>
+
+zad 3.1
+XHTML 1.01
+zad 3.2
+przykład do zadania
+zad 3.3
+utf-8
+
+TEST2
+zad1
+C
+zad2
+C
+zad3
+D
+zad4
+A
+zad5
+D
